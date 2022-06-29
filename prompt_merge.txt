@@ -1,0 +1,8 @@
+Merge the following answers into a single coherent paragraph. The question asked was: <<QUESTION>>
+
+
+VARIOUS ANSWERS:
+<<ANSWERS>>
+
+
+MERGED PARAGRAPH:

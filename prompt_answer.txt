@@ -1,0 +1,10 @@
+Use the following passage to give a detailed answer to the question. If the answer is not present in the passage, just write "NOT PRESENT".
+
+
+QUESTION: <<QUESTION>>
+
+
+PASSAGE: <<PASSAGE>>
+
+
+DETAILED ANSWER or "NOT PRESENT":

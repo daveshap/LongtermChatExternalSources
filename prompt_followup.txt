@@ -1,0 +1,7 @@
+Given the following conversation and the selected topic (<<TOPIC>>) write a follow-up question to ask.
+
+
+<<BLOCK>>
+
+
+One follow-up question to ask about <<TOPIC>>:
