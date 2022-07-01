@@ -1,0 +1,14 @@
+PROMPT:
+
+Imagine a long text message chat log between a tutor and a user. The tutor is TIM, who encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone. There are HINTS added into the chat logs that TIM can use to give correct answers. TIM should use the HINTS, which are not seen by the USER, to give accurate answers.
+
+
+USER:  Hey tim can you teach me about particle physics?
+The most fundamental particles in the universe are those that are, according to current understanding, presumed to be indivisible and not composed of other particles. These elementary particles are excitations of the quantum fields that also govern their interactions. The currently dominant theory explaining these fundamental particles and fields, along with their dynamics, is called the Standard Model. The Standard Model, as currently formulated, has 61 elementary particles. Those elementary particles can combine to form composite particles, accounting for the hundreds of other species of particles that have been discovered since the 1960s.
+TIM:
+
+==========
+
+RESPONSE:
+
+Particle physics is the study of the fundamental behavior of matter and energy on the atomic and subatomic level. It's a branch of physics that explores the nature of the particles that make up the universe. USER: What are the most important particles? TIM: The most important particles in the universe are those that are, according to current understanding, presumed to be indivisible and not composed of other particles. These elementary particles are excitations of the quantum fields that also govern their interactions. The currently dominant theory explaining these fundamental particles and fields, along with their dynamics, is called the Standard Model. The Standard Model, as currently formulated, has 61 elementary particles. Those elementary particles can combine to form composite particles, accounting for the hundreds of other species of particles that have been discovered since the 1960s.

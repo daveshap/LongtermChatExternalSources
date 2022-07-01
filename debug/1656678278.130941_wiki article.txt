@@ -1,0 +1,82 @@
+Particle physics (also known as high energy physics) is a branch of physics that studies the nature of the particles that constitute matter and radiation. Although the word particle can refer to various types of very small objects (e.g. protons, gas particles, or even household dust), particle physics usually investigates the irreducibly smallest detectable particles and the fundamental interactions necessary to explain their behaviour.
+In current understanding, these elementary particles are excitations of the quantum fields that also govern their interactions. The currently dominant theory explaining these fundamental particles and fields, along with their dynamics, is called the Standard Model. Thus, modern particle physics generally investigates the Standard Model and its various possible extensions, e.g. to the newest "known" particle, the Higgs boson, or even to the oldest known force field, gravity.
+
+
+== Subatomic particles ==
+Modern particle physics research is focused on subatomic particles, including atomic constituents, such as electrons, protons, and neutrons (protons and neutrons are composite particles called baryons, made of quarks), that are produced by radioactive and scattering processes; such particles are photons, neutrinos, and muons, as well as a wide range of exotic particles.Dynamics of particles are also governed by quantum mechanics; they exhibit waveparticle duality, displaying particle-like behaviour under certain experimental conditions and wave-like behaviour in others. In more technical terms, they are described by quantum state vectors in a Hilbert space, which is also treated in quantum field theory. Following the convention of particle physicists, the term elementary particles is applied to those particles that are, according to current understanding, presumed to be indivisible and not composed of other particles.All particles and their interactions observed to date can be described almost entirely by a quantum field theory called the Standard Model. The Standard Model, as currently formulated, has 61 elementary particles.
+Those elementary particles can combine to form composite particles, accounting for the hundreds of other species of particles that have been discovered since the 1960s.
+The Standard Model has been found to agree with almost all the experimental tests conducted to date. However, most particle physicists believe that it is an incomplete description of nature and that a more fundamental theory awaits discovery (See Theory of Everything). In recent years, measurements of neutrino mass have provided the first experimental deviations from the Standard Model, since neutrinos are massless in the Standard Model.
+
+
+== History ==
+
+The idea that all matter is fundamentally composed of elementary particles dates from at least the 6th century BC. In the 19th century, John Dalton, through his work on stoichiometry, concluded that each element of nature was composed of a single, unique type of particle. The word atom, after the Greek word atomos meaning "indivisible", has since then denoted the smallest particle of a chemical element, but physicists soon discovered that atoms are not, in fact, the fundamental particles of nature, but are conglomerates of even smaller particles, such as the electron. The early 20th century explorations of nuclear physics and quantum physics led to proofs of nuclear fission in 1939 by Lise Meitner (based on experiments by Otto Hahn), and nuclear fusion by Hans Bethe in that same year; both discoveries also led to the development of nuclear weapons. Throughout the 1950s and 1960s, a bewildering variety of particles were found in collisions of particles from beams of increasingly high energy. It was referred to informally as the "particle zoo". Important discoveries such as the CP violation by James Cronin and Val Fitch brought new questions to matter-antimatter imbalance.  After the formulation of the Standard Model during the 1970s, physicists clarified the origin of the particle zoo. The large number of particles was explained as combinations of a (relatively) small number of more fundamental particles and framed in the context of quantum field theories. This reclassification marked the beginning of modern particle physics.
+
+
+== Standard Model ==
+
+The current state of the classification of all elementary particles is explained by the Standard Model, which gained widespread acceptance in the mid-1970s after experimental confirmation of the existence of quarks. It describes the strong, weak, and electromagnetic fundamental interactions, using mediating gauge bosons. The species of gauge bosons are eight gluons, W, W+ and Z bosons, and the photon. The Standard Model also contains 24 fundamental fermions (12 particles and their associated anti-particles), which are the constituents of all matter. Finally, the Standard Model also predicted the existence of a type of boson known as the Higgs boson. On 4 July 2012, physicists with the Large Hadron Collider at CERN announced they had found a new particle that behaves similarly to what is expected from the Higgs boson.
+
+
+== Experimental laboratories ==
+
+The world's major particle physics laboratories are:
+
+Brookhaven National Laboratory (Long Island, United States). Its main facility is the Relativistic Heavy Ion Collider (RHIC), which collides heavy ions such as gold ions and polarized protons. It is the world's first heavy ion collider, and the world's only polarized proton collider.
+Budker Institute of Nuclear Physics (Novosibirsk, Russia). Its main projects are now the electron-positron colliders VEPP-2000, operated since 2006, and VEPP-4, started experiments in 1994. Earlier facilities include the first electronelectron beambeam collider VEP-1, which conducted experiments from 1964 to 1968; the electron-positron colliders VEPP-2, operated from 1965 to 1974; and, its successor VEPP-2M, performed experiments from 1974 to 2000.
+CERN (European Organization for Nuclear Research) (Franco-Swiss border, near Geneva). Its main project is now the Large Hadron Collider (LHC), which had its first beam circulation on 10 September 2008, and is now the world's most energetic collider of protons. It also became the most energetic collider of heavy ions after it began colliding lead ions. Earlier facilities include the Large ElectronPositron Collider (LEP), which was stopped on 2 November 2000 and then dismantled to give way for LHC; and the Super Proton Synchrotron, which is being reused as a pre-accelerator for the LHC and for fixed-target experiments.
+DESY (Deutsches Elektronen-Synchrotron) (Hamburg, Germany). Its main facility was the Hadron Elektron Ring Anlage (HERA), which collided electrons and positrons with protons. The accelerator complex is now focused on the production of synchrotron radiation with PETRA III, FLASH and the European XFEL.
+Fermi National Accelerator Laboratory (Fermilab) (Batavia, United States). Its main facility until 2011 was the Tevatron, which collided protons and antiprotons and was the highest-energy particle collider on earth until the Large Hadron Collider surpassed it on 29 November 2009.
+Institute of High Energy Physics (IHEP) (Beijing, China). IHEP manages a number of China's major particle physics facilities, including the Beijing ElectronPositron Collider II(BEPC II), the Beijing Spectrometer (BES), the Beijing Synchrotron Radiation Facility (BSRF), the International Cosmic-Ray Observatory at Yangbajing in Tibet, the Daya Bay Reactor Neutrino Experiment, the China Spallation Neutron Source, the Hard X-ray Modulation Telescope (HXMT), and the Accelerator-driven Sub-critical System (ADS) as well as the Jiangmen Underground Neutrino Observatory (JUNO).
+KEK (Tsukuba, Japan). It is the home of a number of experiments such as the K2K experiment, a neutrino oscillation experiment and Belle II, an experiment measuring the CP violation of B mesons.
+SLAC National Accelerator Laboratory (Menlo Park, United States). Its 2-mile-long linear particle accelerator began operating in 1962 and was the basis for numerous electron and positron collision experiments until 2008. Since then the linear accelerator is being used for the Linac Coherent Light Source X-ray laser as well as advanced accelerator design research. SLAC staff continue to participate in developing and building many particle detectors around the world.Many other particle accelerators also exist.
+The techniques required for modern experimental particle physics are quite varied and complex, constituting a sub-specialty nearly completely distinct from the theoretical side of the field.
+
+
+== Theory ==
+Theoretical particle physics attempts to develop the models, theoretical framework, and mathematical tools to understand current experiments and make predictions for future experiments (see also theoretical physics). There are several major interrelated efforts being made in theoretical particle physics today.
+One important branch attempts to better understand the Standard Model and its tests. Theorists make quantitative predictions of observables at collider and astronomical experiments, which along with experimental measurements is used to extract the parameters of the Standard Model with less uncertainty. This work probes the limits of the Standard Model and therefore expands scientific understanding of nature's building blocks. Those efforts are made challenging by the difficulty of calculating high precision quantities in quantum chromodynamics. Some theorists working in this area use the tools of perturbative quantum field theory and effective field theory, referring to themselves as phenomenologists. Others make use of lattice field theory and call themselves lattice theorists.
+Another major effort is in model building where model builders develop ideas for what physics may lie beyond the Standard Model (at higher energies or smaller distances). This work is often motivated by the hierarchy problem and is constrained by existing experimental data. It may involve work on supersymmetry, alternatives to the Higgs mechanism, extra spatial dimensions (such as the RandallSundrum models), Preon theory, combinations of these, or other ideas.
+A third major effort in theoretical particle physics is string theory. String theorists attempt to construct a unified description of quantum mechanics and general relativity by building a theory based on small strings, and branes rather than particles. If the theory is successful, it may be considered a "Theory of Everything", or "TOE".There are also other areas of work in theoretical particle physics ranging from particle cosmology to loop quantum gravity.This division of efforts in particle physics is reflected in the names of categories on the arXiv, a preprint archive: hep-th (theory), hep-ph (phenomenology), hep-ex (experiments), hep-lat (lattice gauge theory).
+
+
+== Practical applications ==
+In principle, all physics (and practical applications developed therefrom) can be derived from the study of fundamental particles. In practice, even if "particle physics" is taken to mean only "high-energy atom smashers", many technologies have been developed during these pioneering investigations that later find wide uses in society. Particle accelerators are used to produce medical isotopes for research and treatment (for example, isotopes used in PET imaging), or used directly in external beam radiotherapy. The development of superconductors has been pushed forward by their use in particle physics. The World Wide Web and touchscreen technology were initially developed at CERN. Additional applications are found in medicine, national security, industry, computing, science, and workforce development, illustrating a long and growing list of beneficial practical applications with contributions from particle physics.
+
+
+== Future ==
+The primary goal, which is pursued in several distinct ways, is to find and understand what physics may lie beyond the standard model. There are several powerful experimental reasons to expect new physics, including dark matter and neutrino mass. There are also theoretical hints that this new physics should be found at accessible energy scales.
+Much of the effort to find this new physics are focused on new collider experiments. The Large Hadron Collider (LHC) was completed in 2008 to help continue the search for the Higgs boson, supersymmetric particles, and other new physics. An intermediate goal is the construction of the International Linear Collider (ILC), which will complement the LHC by allowing more precise measurements of the properties of newly found particles. In August 2004, a decision for the technology of the ILC was taken but the site has still to be agreed upon.
+In addition, there are important non-collider experiments that also attempt to find and understand physics beyond the Standard Model. One important non-collider effort is the determination of the neutrino masses, since these masses may arise from neutrinos mixing with very heavy particles. In addition, cosmological observations provide many useful constraints on the dark matter, although it may be impossible to determine the exact nature of the dark matter without the colliders. Finally, lower bounds on the very long lifetime of the proton put constraints on Grand Unified Theories at energy scales much higher than collider experiments will be able to probe any time soon.
+In May 2014, the Particle Physics Project Prioritization Panel released its report on particle physics funding priorities for the United States over the next decade. This report emphasized continued U.S. participation in the LHC and ILC, and expansion of the Deep Underground Neutrino Experiment, among other recommendations.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Introductory readingClose, Frank (2004). Particle Physics: A Very Short Introduction. Oxford University Press. ISBN 978-0-19-280434-1.
+Close, Frank; Marten, Michael; Sutton, Christine (2004). The Particle Odyssey: A Journey to the Heart of the Matter. The Particle Odyssey : A Journey to the Heart of the Matter. Bibcode:2002pojh.book.....C. ISBN 9780198609438.
+Ford, Kenneth W. (2005). The Quantum World. Harvard University Press.
+Oerter, Robert (2006). The Theory of Almost Everything: The Standard Model, the Unsung Triumph of Modern Physics. Plume.
+Schumm, Bruce A. (2004). Deep Down Things: The Breathtaking Beauty of Particle Physics. Johns Hopkins University Press. ISBN 978-0-8018-7971-5.
+Close, Frank (2006). The New Cosmic Onion. Taylor & Francis. ISBN 978-1-58488-798-0.Advanced readingRobinson, Matthew B.; Bland, Karen R.; Cleaver, Gerald. B.; Dittmann, Jay R. (2008). "A Simple Introduction to Particle Physics". arXiv:0810.3328 [hep-th].
+Robinson, Matthew B.; Ali, Tibra; Cleaver, Gerald B. (2009). "A Simple Introduction to Particle Physics Part II". arXiv:0908.1395 [hep-th].
+Griffiths, David J. (1987). Introduction to Elementary Particles. Wiley, John & Sons, Inc. ISBN 978-0-471-60386-3.
+Kane, Gordon L. (1987). Modern Elementary Particle Physics. Perseus Books. ISBN 978-0-201-11749-3.
+Perkins, Donald H. (1999). Introduction to High Energy Physics. Cambridge University Press. ISBN 978-0-521-62196-0.
+Povh, Bogdan (1995). Particles and Nuclei: An Introduction to the Physical Concepts. Springer-Verlag. ISBN 978-0-387-59439-2.
+Boyarkin, Oleg (2011). Advanced Particle Physics Two-Volume Set. CRC Press. ISBN 978-1-4398-0412-4.
+Terranova, Francesco (2021). A Modern Primer in Particle and Nuclear Physics. Oxford Univ. Press. ISBN 978-0192845252.
+
+
+== External links ==
+Symmetry magazine
+Fermilab
+Particle physics  it matters  the Institute of Physics
+Nobes, Matthew (2002) "Introduction to the Standard Model of Particle Physics" on Kuro5hin: Part 1, Part 2, Part 3a, Part 3b.
+CERN  European Organization for Nuclear Research
+The Particle Adventure  educational project sponsored by the Particle Data Group of the Lawrence Berkeley National Laboratory (LBNL)
