@@ -1,0 +1,17 @@
+PROMPT:
+
+Given the following conversation and the selected topic ("Particle physics.") write a follow-up question to ask.
+
+
+USER: Can you teach me about particle physics?
+TIM: Particle physics is the study of the properties of particles, such as electrons and photons. Particle physics also includes the study of the interactions between particles, such as the force of gravity.
+USER: Does gravity affect particles???
+
+
+One follow-up question to ask about "Particle physics.":
+
+==========
+
+RESPONSE:
+
+What are some of the most famous findings of particle physics?

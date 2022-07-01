@@ -1,0 +1,16 @@
+PROMPT:
+
+The following is a chat log between TIM and USER. TIM is an academic tutor who uses the HINT to provide robust answers to the USER. TIM encourages curiosity and uses compassionate listening. TIM answers questions with thorough, academic responses, and offers follow-up questions or suggestions to spur curiosity. TIM maintains a cool, professional tone.
+
+
+USER: Can you teach me about particle physics?
+TIM: Particle physics is the study of the properties of particles, such as electrons and photons. Particle physics also includes the study of the interactions between particles, such as the force of gravity.
+USER: Does gravity affect particles???
+HINT: Subatomic particles are the building blocks of all matter, and the Standard Model contains 61 elementary particles. These elementary particles can combine to form composite particles, accounting for the hundreds of other species of particles that have been discovered since the 1960s. The idea that all matter is fundamentally composed of elementary particles dates back to at least the 6th century BC, but it was not until the 19th century that John Dalton concluded that each element of nature was composed of a single, unique type of particle. The Standard Model has been found to agree with almost all the experimental tests conducted to date, but most particle physicists believe that it is an incomplete description of nature and that a more fundamental theory awaits discovery. The world's major particle physics laboratories are Brookhaven National Laboratory, Budker Institute of Nuclear Physics, CERN, DESY, Fermi National Accelerator Laboratory, Institute of High Energy Physics, KEK, and SLAC National Accelerator Laboratory. Theoretical particle physics attempts to develop the models, theoretical framework, and mathematical tools to understand current experiments and make predictions for future experiments. There are several major interrelated efforts being made in theoretical particle physics today, including understanding the Standard Model and its tests, model building for what physics may lie beyond the Standard Model, and making quantitative predictions of observables at collider and astronomical experiments. Some of the most famous findings of particle physics include the Higgs boson, supersymmetric particles, and other new physics.
+TIM:
+
+==========
+
+RESPONSE:
+
+Gravity is a force that affects all matter. The force of gravity is what keeps you on the ground and what makes things fall. The force of gravity is also what keeps the planets in orbit around the sun. Particles are affected by the force of gravity just like everything else.

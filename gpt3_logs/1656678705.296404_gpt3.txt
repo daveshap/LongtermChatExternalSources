@@ -1,0 +1,15 @@
+PROMPT:
+
+Given the following conversation and the selected topic (Particle physics) write a follow-up question to ask.
+
+
+USER: Can you teach me about particle physics?
+
+
+One follow-up question to ask about Particle physics:
+
+==========
+
+RESPONSE:
+
+What is the difference between a particle and a wave?

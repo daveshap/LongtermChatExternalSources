@@ -109,7 +109,7 @@ if __name__ == '__main__':
     conversation = list()
     while True:
         # get user input and vector
-        user_says = input("USER:")
+        user_says = input("USER: ")
         line_in = 'USER: %s' % user_says
         vector = gpt3_embedding(line_in)
         info = {'line': line_in, 'vector': vector}
