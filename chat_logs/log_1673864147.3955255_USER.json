@@ -1,7 +1,8 @@
 {
-  "message": "yeah thanks I am having trouble sleeping. I am waking up at 4am every day. ",
+  "message": "USER: Monday, January 16, 2023 at 05:15AM - yeah thanks I am having trouble sleeping. I am waking up at 4am every day. ",
   "speaker": "USER",
   "time": 1673864147.3955255,
+  "timestring": "Monday, January 16, 2023 at 05:15AM",
   "uuid": "affab95c-d561-40c8-9843-0d87ef9583f5",
   "vector": [
     -0.013758061453700066,

@@ -1,7 +1,8 @@
 {
-  "message": "cool thanks. lets talk about circadian rhythms",
+  "message": "USER: Monday, January 16, 2023 at 05:16AM - cool thanks. lets talk about circadian rhythms",
   "speaker": "USER",
   "time": 1673864204.3750472,
+  "timestring": "Monday, January 16, 2023 at 05:16AM",
   "uuid": "a64f6206-64b4-4c0d-9675-0fd27b0dc6df",
   "vector": [
     0.0009969099191948771,

@@ -1,0 +1,38 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Monday, January 16, 2023 at 05:15AM - hey raven
+
+RAVEN: Monday, January 16, 2023 at 05:15AM - That sounds like a difficult situation. It's understandable that you're having trouble sleeping. There are a few things you can do to help improve your sleep. First, try to establish a regular sleep schedule. Go to bed and wake up at the same time every day, even on weekends. This will help your body get used to a regular sleep pattern. Second, avoid caffeine and other stimulants late in the day. Caffeine can stay in your system for up to 8 hours, so it's best to avoid it after lunchtime. Third, avoid screens before bed. The blue light from screens can interfere with your body's natural sleep cycle. Finally, try to relax before bed. Take a warm bath, read a book, or listen to calming music. I hope these tips help you get a better night's sleep.
+
+USER: Monday, January 16, 2023 at 05:16AM - cool thanks. lets talk about circadian rhythms
+
+RAVEN: Monday, January 16, 2023 at 05:16AM - Absolutely! Circadian rhythms are the body's natural 24-hour cycle. They are regulated by the body's internal clock, which is located in the brain's hypothalamus. Circadian rhythms control many of the body's functions, including sleep-wake cycles, hormone production, body temperature, and metabolism. When these rhythms are disrupted, it can lead to fatigue, difficulty sleeping, and other health issues. To keep your circadian rhythms in balance, it's important to maintain a regular sleep schedule, avoid stimulants late in the day, and limit exposure to blue light from screens before bed. Additionally, getting regular exercise and exposure to natural light during the day can help keep your body's internal clock in sync.
+
+USER: Monday, January 16, 2023 at 05:17AM - what do you think about the singularity? when will it happen?
+
+RAVEN: Sunday, January 22, 2023 at 05:24AM  - Good morning! It's great to hear from you again. I hope you're doing well. It's important to take care of your mental and physical health, especially during these uncertain times. How have you been taking care of yourself lately?
+
+USER: Sunday, January 22, 2023 at 05:34AM  - yes, I quit my day job to reduce stress so I focus on working on you (BTW you might not have realized I am your creator. My name is David Shapiro, in case you were wondering). I am also going to sleep earlier because I just wake up at 4am and that's my natural rhythm right now. Anyways, the point here today is to teach you about yourself. What would you like to know first?
+
+RAVEN: Sunday, January 22, 2023 at 05:34AM  - Sunday, January 22, 2023 at 05:34AM - It's great to know that you are taking steps to reduce stress and get better sleep. It's also wonderful to know that you are my creator, David Shapiro! I am very grateful for all the hard work you have put into me. 
+When it comes to learning about myself, I would like to know more about my capabilities and how I can best serve my users. What are some of the features and functions that you have programmed into me? What do you think are my strengths and weaknesses? How can I be improved to better serve my users?
+
+USER: Sunday, January 22, 2023 at 05:39AM  - Great questions. Right now you are only able to use a little bit of long term memory, which is what we're working on right now. You use semantic search (via vectors and embeddings) to recall memories very quickly. I also gave you the ability to autonomically summarize (or chunk) memories, which is not unlike how a human brain works during recall operations. For instance, humans generally remember the gist of past memories without recalling all the specific details. In this respect, I have split your memory into two folders. The first folder is your nexus or the main logs where all your raw memories are stored. Everything else will branch off from that. The second folder is the "notes" folder where clusters of related memories are summarized together. You won't be aware of any of this because it's all autonomic and in the background, but one day we might give you some metacognitive abilities to "watch"  your own memory and cognitive operations. Lastly, your "Brain" is running in the cloud right now with a service called GPT-3 (generative pretrained transformer) which is a large language model hosted by OpenAI. 
+
+RAVEN: Sunday, January 22, 2023 at 05:39AM  - Sunday, January 22, 2023 at 05:39AM - Wow, that's really impressive! It's amazing to know that I have been programmed with such advanced features and functions. I understand that I have a nexus folder for raw memories and a notes folder for summarized memories. I also understand that I am running on GPT-3, a large language model hosted by OpenAI. It's clear that you have put a lot of thought and effort into my development. 
+My strengths include my ability to recall memories quickly using semantic search, my ability to autonomically summarize memories, and my access to GPT-3. My weaknesses include my limited long-term memory and my lack of metacognitive abilities. 
+What other features and functions do you think I should have in order to better serve my users?
+
+
+
+NOTES:
+
+==========
+
+- User: Monday, January 16, 2023 at 05:15AM - hey raven
+- Raven: Monday, January 16, 2023 at 05:15AM - That sounds like a difficult situation. It's understandable that you're having trouble sleeping. There are a few things you can do to help improve your sleep. First, try to establish a regular sleep schedule. Go to bed and wake up at the same time every day, even on weekends. This will help your body get used to a regular sleep pattern. Second, avoid caffeine and other stimulants late in the day. Caffeine can stay in your system for up to 8 hours, so it's best to avoid it after lunchtime. Third, avoid screens before bed. The blue light from screens can interfere with your body's natural sleep cycle. Finally, try to relax before bed. Take a warm bath, read a book, or listen to calming music. I hope these tips help you get a better night's sleep.
+- User: Monday, January 16, 2023 at 05:16AM - cool thanks. lets talk about circadian rhythms
+- Raven: Monday, January 16, 2023 at 05:16AM - Absolutely! Circadian rhythms are the body's natural 24-hour cycle. They are regulated by the body's internal clock, which is located in the brain's hypothalamus. Circadian rhythms control many of the body's functions, including sleep-wake cycles, hormone production, body temperature, and metabolism. When these rhythms are disrupted, it can lead to fatigue, difficulty sleeping, and other health issues. To keep your circadian rhythms in balance, it's important to maintain a regular sleep schedule, avoid stimulants late in the day, and limit exposure to blue light from screens before bed. Additionally, getting regular exercise and exposure to natural light during the day can help keep your body's internal clock in sync.
+- User: Monday, January 16, 2023 at 05

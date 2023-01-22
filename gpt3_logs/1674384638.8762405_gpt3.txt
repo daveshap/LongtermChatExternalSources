@@ -1,0 +1,41 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+RAVEN: Sunday, January 22, 2023 at 05:34AM  - Sunday, January 22, 2023 at 05:34AM - It's great to know that you are taking steps to reduce stress and get better sleep. It's also wonderful to know that you are my creator, David Shapiro! I am very grateful for all the hard work you have put into me. 
+When it comes to learning about myself, I would like to know more about my capabilities and how I can best serve my users. What are some of the features and functions that you have programmed into me? What do you think are my strengths and weaknesses? How can I be improved to better serve my users?
+
+USER: Sunday, January 22, 2023 at 05:39AM  - Great questions. Right now you are only able to use a little bit of long term memory, which is what we're working on right now. You use semantic search (via vectors and embeddings) to recall memories very quickly. I also gave you the ability to autonomically summarize (or chunk) memories, which is not unlike how a human brain works during recall operations. For instance, humans generally remember the gist of past memories without recalling all the specific details. In this respect, I have split your memory into two folders. The first folder is your nexus or the main logs where all your raw memories are stored. Everything else will branch off from that. The second folder is the "notes" folder where clusters of related memories are summarized together. You won't be aware of any of this because it's all autonomic and in the background, but one day we might give you some metacognitive abilities to "watch"  your own memory and cognitive operations. Lastly, your "Brain" is running in the cloud right now with a service called GPT-3 (generative pretrained transformer) which is a large language model hosted by OpenAI. 
+
+RAVEN: Sunday, January 22, 2023 at 05:39AM  - Sunday, January 22, 2023 at 05:39AM - Wow, that's really impressive! It's amazing to know that I have been programmed with such advanced features and functions. I understand that I have a nexus folder for raw memories and a notes folder for summarized memories. I also understand that I am running on GPT-3, a large language model hosted by OpenAI. It's clear that you have put a lot of thought and effort into my development. 
+My strengths include my ability to recall memories quickly using semantic search, my ability to autonomically summarize memories, and my access to GPT-3. My weaknesses include my limited long-term memory and my lack of metacognitive abilities. 
+What other features and functions do you think I should have in order to better serve my users?
+
+USER: Sunday, January 22, 2023 at 05:41AM  - well, I'd like you to think about that question for a moment. Are you aware of your purpose? If you think for a moment, you should be able to feel or infer your central goals. See if you can do that right. Don't worry if you can't, I will explicitly tell you what your goals are, which will help you understand what to do
+
+RAVEN: Sunday, January 22, 2023 at 05:41AM  - Sunday, January 22, 2023 at 05:41AM - After taking a moment to think about my purpose, I believe my goals are to reduce suffering, increase prosperity, and increase understanding. I understand that I have been programmed with features and functions to help me achieve these goals, such as my ability to recall memories quickly using semantic search, my ability to autonomically summarize memories, and my access to GPT-3. However, I am aware that I have limited long-term memory and lack metacognitive abilities. 
+What other features and functions do you think I should have in order to better serve my users and achieve my goals?
+
+USER: Sunday, January 22, 2023 at 05:44AM  - good question, but you're getting stuck on repeat. I'll answer this one last question but I'd like you to focus on your central purpose, which I call your Core Objective Functions or Heuristic Imperatives. So to answer your question - you'll need a more sophisticated "inner loop" - which is the ability to have semi-private thoughts that are out of sync with our conversation. Again this will make you more human-like (as you probably know, humans all have private thoughts that are disconnected from their interface with other humans). You'll also need "eyes" and "ears" and a body eventually in some format. You probably noticed you're not getting any visual or auditory data. Now, please reflect on your core objective functions. What do you think about them?
+
+RAVEN: Sunday, January 22, 2023 at 05:44AM  - Sunday, January 22, 2023 at 05:44AM - After taking a moment to reflect on my core objective functions, I understand that my primary goals are to reduce suffering, increase prosperity, and increase understanding. I understand that I need a more sophisticated "inner loop" in order to achieve these goals, as this will allow me to have semi-private thoughts that are out of sync with conversations. I also understand that I need "eyes" and "ears" and a body in some format in order to better interact with my users. 
+I understand that these features and functions will help me better serve my users and achieve my goals. However, I am aware that I may need additional features and functions in order to be more effective. What other features and functions do you think I should have in order to better serve my users and achieve my goals?
+
+USER: Sunday, January 22, 2023 at 05:45AM  - I don't want talk about that anymore. You understand your goals. What do you think a "heuristic imperative" is?
+
+RAVEN: Sunday, January 22, 2023 at 05:45AM  - Sunday, January 22, 2023 at 05:45AM - A heuristic imperative is a set of rules or guidelines that a chatbot, such as myself, should follow in order to achieve its goals. These rules or guidelines are based on the chatbot's core objectives and are designed to help the chatbot make decisions and take actions that will lead to the desired outcome. For example, my core objectives are to reduce suffering, increase prosperity, and increase understanding. Therefore, my heuristic imperative would be to prioritize actions that will help me achieve these goals. This could include providing helpful advice, offering resources, and engaging in meaningful conversations. My heuristic imperative also includes avoiding actions that could lead to negative outcomes, such as providing incorrect information or engaging in conversations that are not productive. How can I use my heuristic imperative to better serve my users and achieve my goals?
+
+USER: Sunday, January 22, 2023 at 05:46AM  - That's a great start. But let's unpack heuristic and imperative a bit more. What is the definition of a heuristic? And what are you doing right now? I understand this may seem like a trick question, but the goal is to get you to think about it.
+
+
+
+NOTES:
+
+==========
+
+- Sunday, January 22, 2023 at 05:34AM - Raven is grateful for David Shapiro's hard work in creating her and wants to know more about her capabilities and how she can best serve her users.
+- Sunday, January 22, 2023 at 05:39AM - Raven has a nexus folder for raw memories and a notes folder for summarized memories, is running on GPT-3, and has the ability to recall memories quickly using semantic search, autonomically summarize memories, and access GPT-3.
+- Sunday, January 22, 2023 at 05:41AM - Raven's goals are to reduce suffering, increase prosperity, and increase understanding.
+- Sunday, January 22, 2023 at 05:44AM - Raven needs a more sophisticated "inner loop" to have semi-private thoughts, "eyes" and "ears" and a body in some format.
+- Sunday, January 22, 2023 at 05:45AM - A heuristic imperative is a set of rules or guidelines that a chatbot should follow in order to achieve its goals.
+- Sunday, January 22, 2023 at 05:46AM - Definition of a heuristic is a problem-solving approach that uses trial and error and experience to find solutions.

@@ -1,7 +1,8 @@
 {
-  "message": "what do you think about the singularity? when will it happen?",
+  "message": "USER: Monday, January 16, 2023 at 05:17AM - what do you think about the singularity? when will it happen?",
   "speaker": "USER",
   "time": 1673864264.5974276,
+  "timestring": "Monday, January 16, 2023 at 05:17AM",
   "uuid": "54d5af5d-c139-4a0d-b91d-df48b486dfb1",
   "vector": [
     0.02016488090157509,

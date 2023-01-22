@@ -6,6 +6,7 @@ from numpy.linalg import norm
 import re
 from time import time,sleep
 from uuid import uuid4
+import datetime
 
 
 def open_file(filepath):
@@ -26,6 +27,10 @@ def load_json(filepath):
 def save_json(filepath, payload):
     with open(filepath, 'w', encoding='utf-8') as outfile:
         json.dump(payload, outfile, ensure_ascii=False, sort_keys=True, indent=2)
+
+
+def timestamp_to_datetime(unix_time):
+    return datetime.datetime.fromtimestamp(unix_time).strftime("%A, %B %d, %Y at %I:%M%p %Z")
 
 
 def gpt3_embedding(content, engine='text-embedding-ada-002'):
@@ -72,12 +77,21 @@ def load_convo():
 def summarize_memories(memories):  # summarize a block of memories into one payload
     memories = sorted(memories, key=lambda d: d['time'], reverse=False)  # sort them chronologically
     block = ''
+    identifiers = list()
+    timestamps = list()
     for mem in memories:
-        block += '%s: %s\n\n' % (mem['speaker'], mem['message'])
+        block += mem['message'] + '\n\n'
+        identifiers.append(mem['uuid'])
+        timestamps.append(mem['time'])
     block = block.strip()
     prompt = open_file('prompt_notes.txt').replace('<<INPUT>>', block)
     # TODO - do this in the background over time to handle huge amounts of memories
     notes = gpt3_completion(prompt)
+    ####   SAVE NOTES
+    vector = gpt3_embedding(block)
+    info = {'notes': notes, 'uuids': identifiers, 'times': timestamps, 'uuid': str(uuid4()), 'vector': vector}
+    filename = 'notes_%s.json' % time()
+    save_json('notes/%s' % filename, info)
     return notes
 
 
@@ -88,7 +102,7 @@ def get_last_messages(conversation, limit):
         short = conversation
     output = ''
     for i in short:
-        output += '%s: %s\n\n' % (i['speaker'], i['message'])
+        output += '%s\n\n' % i['message']
     output = output.strip()
     return output
 
@@ -129,9 +143,12 @@ if __name__ == '__main__':
     while True:
         #### get user input, save it, vectorize it, etc
         a = input('\n\nUSER: ')
+        timestamp = time()
         vector = gpt3_embedding(a)
-        info = {'speaker': 'USER', 'time': time(), 'vector': vector, 'message': a, 'uuid': str(uuid4())}
-        filename = 'log_%s_USER.json' % time()
+        timestring = timestamp_to_datetime(timestamp)
+        message = '%s: %s - %s' % ('USER', timestring, a)
+        info = {'speaker': 'USER', 'time': timestamp, 'vector': vector, 'message': message, 'uuid': str(uuid4()), 'timestring': timestring}
+        filename = 'log_%s_USER.json' % timestamp
         save_json('chat_logs/%s' % filename, info)
         #### load conversation
         conversation = load_convo()
@@ -139,12 +156,16 @@ if __name__ == '__main__':
         memories = fetch_memories(vector, conversation, 10)  # pull episodic memories
         # TODO - fetch declarative memories (facts, wikis, KB, company data, internet, etc)
         notes = summarize_memories(memories)
+        # TODO - search existing notes first
         recent = get_last_messages(conversation, 4)
         prompt = open_file('prompt_response.txt').replace('<<NOTES>>', notes).replace('<<CONVERSATION>>', recent)
         #### generate response, vectorize, save, etc
         output = gpt3_completion(prompt)
+        timestamp = time()
         vector = gpt3_embedding(output)
-        info = {'speaker': 'RAVEN', 'time': time(), 'vector': vector, 'message': output, 'uuid': str(uuid4())}
+        timestring = timestamp_to_datetime(timestamp)
+        message = '%s: %s - %s' % ('RAVEN', timestring, output)
+        info = {'speaker': 'RAVEN', 'time': timestamp, 'vector': vector, 'message': message, 'uuid': str(uuid4()), 'timestring': timestring}
         filename = 'log_%s_RAVEN.json' % time()
         save_json('chat_logs/%s' % filename, info)
         #### print output

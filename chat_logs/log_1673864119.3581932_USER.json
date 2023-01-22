@@ -1,7 +1,8 @@
 {
-  "message": "hey raven",
+  "message": "USER: Monday, January 16, 2023 at 05:15AM - hey raven",
   "speaker": "USER",
   "time": 1673864119.3581932,
+  "timestring": "Monday, January 16, 2023 at 05:15AM",
   "uuid": "c8e8c5c2-19ab-4107-9768-2b3fd9bb677a",
   "vector": [
     -0.009024404920637608,
