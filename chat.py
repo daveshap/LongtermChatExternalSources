@@ -71,7 +71,7 @@ def load_convo():
         data = load_json('chat_logs/%s' % file)
         result.append(data)
     ordered = sorted(result, key=lambda d: d['time'], reverse=False)  # sort them all chronologically
-    return result
+    return ordered
 
 
 def summarize_memories(memories):  # summarize a block of memories into one payload
