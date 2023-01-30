@@ -139,7 +139,7 @@ def gpt3_completion(prompt, engine='text-davinci-003', temp=0.0, top_p=1.0, toke
 
 
 if __name__ == '__main__':
-    openai.api_key = open_file('openaiapikey.txt')
+    openai.api_key = open_file('openaiapikey.txt').rstrip()
     while True:
         #### get user input, save it, vectorize it, etc
         a = input('\n\nUSER: ')
