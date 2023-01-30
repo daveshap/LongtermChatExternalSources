@@ -15,7 +15,7 @@ GPT-3 chatbot with long-term memory and external sources.
 2.  Create a virtual environment: `python3 -m venv env`
 3.  Activate the environment: `.\env\Scripts\activate`
 4.  Install the required packages: `pip install openai numpy`
-5.  Copy your OpenAI api key to a file named `openaiapikey.txt` in the project directory. Ensure there is no trailing newline.
+5.  Copy your OpenAI api key to a file named `openaiapikey.txt` in the project directory.
 
 ### Mac/Linux
 
@@ -23,7 +23,7 @@ GPT-3 chatbot with long-term memory and external sources.
 2.  Create a virtual environment: `python3 -m venv env`
 3.  Activate the environment: `source env/bin/activate`
 4.  Install the required packages: `pip3 install openai numpy`
-5.  Copy your OpenAI api key to a file named `openaiapikey.txt` in the project directory. Ensure there is no trailing newline.
+5.  Copy your OpenAI api key to a file named `openaiapikey.txt` in the project directory.
 
 ## Usage
 
