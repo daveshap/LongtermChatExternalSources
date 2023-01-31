@@ -64,14 +64,14 @@ def fetch_memories(vector, logs, count):
 
 
 def load_convo():
-    files = os.listdir('chat_logs')
+    files = os.listdir('nexus')
     files = [i for i in files if '.json' in i]  # filter out any non-JSON files
     result = list()
     for file in files:
-        data = load_json('chat_logs/%s' % file)
+        data = load_json('nexus/%s' % file)
         result.append(data)
     ordered = sorted(result, key=lambda d: d['time'], reverse=False)  # sort them all chronologically
-    return result
+    return ordered
 
 
 def summarize_memories(memories):  # summarize a block of memories into one payload
@@ -89,9 +89,9 @@ def summarize_memories(memories):  # summarize a block of memories into one payl
     notes = gpt3_completion(prompt)
     ####   SAVE NOTES
     vector = gpt3_embedding(block)
-    info = {'notes': notes, 'uuids': identifiers, 'times': timestamps, 'uuid': str(uuid4()), 'vector': vector}
+    info = {'notes': notes, 'uuids': identifiers, 'times': timestamps, 'uuid': str(uuid4()), 'vector': vector, 'time': time()}
     filename = 'notes_%s.json' % time()
-    save_json('notes/%s' % filename, info)
+    save_json('internal_notes/%s' % filename, info)
     return notes
 
 
@@ -149,7 +149,7 @@ if __name__ == '__main__':
         message = '%s: %s - %s' % ('USER', timestring, a)
         info = {'speaker': 'USER', 'time': timestamp, 'vector': vector, 'message': message, 'uuid': str(uuid4()), 'timestring': timestring}
         filename = 'log_%s_USER.json' % timestamp
-        save_json('chat_logs/%s' % filename, info)
+        save_json('nexus/%s' % filename, info)
         #### load conversation
         conversation = load_convo()
         #### compose corpus (fetch memories, etc)
@@ -167,6 +167,6 @@ if __name__ == '__main__':
         message = '%s: %s - %s' % ('RAVEN', timestring, output)
         info = {'speaker': 'RAVEN', 'time': timestamp, 'vector': vector, 'message': message, 'uuid': str(uuid4()), 'timestring': timestring}
         filename = 'log_%s_RAVEN.json' % time()
-        save_json('chat_logs/%s' % filename, info)
+        save_json('nexus/%s' % filename, info)
         #### print output
         print('\n\nRAVEN: %s' % output) 

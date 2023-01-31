@@ -1,0 +1,7 @@
+Read the following notes and extract principles about the user from it. What are some common themes, preferences, or observations about the user? List out the principles as a hyphenated list like "- " and write them in complete sentences.
+
+
+<<INPUT>>
+
+
+PRINCIPLES:
